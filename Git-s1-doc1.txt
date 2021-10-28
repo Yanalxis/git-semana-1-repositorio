@@ -1,4 +1,4 @@
-Nombre: Brayan 
-Apellido: Arenas
+Nombre: Alexis
+Apellido: Forero
 Edad: 19 años
 Estudiante: Programación web en Misión Tic 2022
